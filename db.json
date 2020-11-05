@@ -1,0 +1,40 @@
+{
+  "login": [
+    {
+      "id": "Bello",
+      "password": "sage",
+      "full_name": "Kgaugelo Ramaramel;a",
+      "room_type": "Standard",
+      "price": "R500",
+      "check_in": "22/02/2020",
+      "check_out": "25/02/2020"
+      
+    },
+    {
+      "id": "Bello2",
+      "password": "sage2",
+      "full_name": "Kgaugelo Ramaramela2",
+      "room_type": "Single",
+      "price": "R1000",
+      "check_in": "22/02/2020",
+      "check_out": "25/02/2020"
+    },
+    {
+      "id": "Bello3",
+      "password": "sage3",
+      "full_name": "Kgaugelo Ramaramel;a3",
+      "room_type": "Single",
+      "price": "R1000",
+      "check_in": "22/02/2020",
+      "check_out": "25/02/2020"
+    },
+    {
+      "id": "Bello4",
+      "password": "sage4",
+      "full_name": "Kgaugelo Ramaramel;a2",
+      "room_type": "Grand Suite",
+      "check_in": "22/02/2050",
+      "check_out": "25/02/2020",
+      "price": "R2500"
+    }
+  ]
